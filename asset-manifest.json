@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic-tac-game/static/css/main.bc276482.chunk.css",
+    "main.js": "/tic-tac-game/static/js/main.628fa5d0.chunk.js",
+    "main.js.map": "/tic-tac-game/static/js/main.628fa5d0.chunk.js.map",
+    "runtime-main.js": "/tic-tac-game/static/js/runtime-main.d7aba191.js",
+    "runtime-main.js.map": "/tic-tac-game/static/js/runtime-main.d7aba191.js.map",
+    "static/js/2.57343eaf.chunk.js": "/tic-tac-game/static/js/2.57343eaf.chunk.js",
+    "static/js/2.57343eaf.chunk.js.map": "/tic-tac-game/static/js/2.57343eaf.chunk.js.map",
+    "index.html": "/tic-tac-game/index.html",
+    "precache-manifest.16acb6beca4d98d7a3b133a9af818fb1.js": "/tic-tac-game/precache-manifest.16acb6beca4d98d7a3b133a9af818fb1.js",
+    "service-worker.js": "/tic-tac-game/service-worker.js",
+    "static/css/main.bc276482.chunk.css.map": "/tic-tac-game/static/css/main.bc276482.chunk.css.map",
+    "static/js/2.57343eaf.chunk.js.LICENSE.txt": "/tic-tac-game/static/js/2.57343eaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7aba191.js",
+    "static/js/2.57343eaf.chunk.js",
+    "static/css/main.bc276482.chunk.css",
+    "static/js/main.628fa5d0.chunk.js"
+  ]
+}
